@@ -5,6 +5,7 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
+      // This alias is required for the project to build.
       "@/*": ["src/*"]
     }
   }
