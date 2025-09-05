@@ -5,8 +5,8 @@ This checklist drives the complete migration from the legacy codebase to WXT. Us
 ## Phase 0 — Repo Setup
 
 - [x] Scaffold WXT project (background, content, popup stubs)
-- [ ] Configure TypeScript paths/aliases (`@` → `rewrite_wxt/src`)
-- [ ] Add ESLint/Prettier config aligned with repo
+- [x] Configure TypeScript paths/aliases (`@` → `rewrite_wxt/src`)
+- [x] Add ESLint/Prettier config aligned with repo
 - [ ] Ensure Node 20+ and WXT pinned versions match CI
 
 ## Phase 1 — Manifest & Build
